@@ -1,1 +1,5 @@
-pass  # this Python keyword is just a placeholder, stands for "don't do anything"
+def say_hi():
+    print("Hello, World!")
+
+
+say_hi()
